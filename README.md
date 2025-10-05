@@ -29,11 +29,11 @@ These insights offer a clear understanding of the data for the store owners. Whi
 
 1. **Top 10 Customers** – The table shows 10 highest-spending customers at the stores.  
 
-![Top 10 Customers](Top10\ Customers.jpg)  
+![Top 10 Customers](Top10_Customers.jpg)  
 
 2. **Country-wise Revenue** – The visual displays revenue distribution across countries.  
 
-![Country-wise Revenue](Country\ Wise\ Spending\ Footprint.jpg)  
+![Country-wise Revenue](CountryWise_Spending_Footprint.jpg)  
 
 ## Licensing and Acknowledgements
 Sakila database and data are owned by MYSQL. I do not hold rights for the data. The project is for educational purposes. Feel free to use the code.
